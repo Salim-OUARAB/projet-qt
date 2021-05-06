@@ -9,3 +9,11 @@ Réaliser une interface graphique qui affiche dans une fenêtre de 0 à n élém
 * Utiliser le patron de conception Factory
 
 
+### Réalisation :
+Le travail à été réalisé avec Qt Creator et Qt (5.1.0).
+Le fichier zip « projet-qt.zip » est le fichier exécutable, pour le faire fonctionner il faut mettre les dll manquantes dans le même dossier.
+
+
+
+
+
